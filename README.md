@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently a 4th-year student at HCMUS, majoring in Embedded Systems.<br>📚 I'm deeply immersed in learning about embedded technology and its applications.<br>⚡ In my free time, I love reading books, especially those that broaden my knowledge and perspectives.</p>
+<p align="left">🔭 I’m currently a 4th-year student at HCMUS, majoring in Computer and Embedded Systems.<br>📚 I'm deeply immersed in learning about embedded technology and its applications.<br>⚡ In my free time, I love reading books, especially those that broaden my knowledge and perspectives.</p>
 
 ###
 
