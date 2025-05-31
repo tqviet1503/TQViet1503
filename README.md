@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">Hi there, I'm Quoc Viet 👋</h1>
-<h3 align="center">Computer & Embedded Systems Engineering Student </h3>
+<h3 align="center">Electronics and Telecommunications Engineering Student </h3>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/quoc-viet-tran-3a6b3a301/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/quoc-viet-tran-3a6b3a301/])
 
 </div>
 
@@ -17,7 +17,7 @@
 
 - 🎓 **4th-year student majoring in Computer and Embedded Systems** at Ho Chi Minh City University of Science (HCMUS)
 - 🔬 **Currently exploring:** Embedded Systems and IoT Development
-- 🌱 **Learning:** Advanced microcontroller programming, RTOS, and hardware-software integration
+- 🌱 **Learning:** Microcontroller programming, RTOS, and hardware-software integration
 - 📖 **Passionate about:** Continuous learning through technical literature and innovation
 - 🎯 **Goal:** Contributing to cutting-edge embedded technology solutions
 
@@ -50,8 +50,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tqviet1503&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tqviet1503&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ---
