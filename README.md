@@ -2,14 +2,12 @@
   <img height="200" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" alt="coding gif" />
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
-<h3 align="center">Computer & Embedded Systems Engineering Student | Tech Enthusiast</h3>
+<h1 align="center">Hi there, I'm Quoc Viet 👋</h1>
+<h3 align="center">Computer & Embedded Systems Engineering Student </h3>
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](your-youtube-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
 
 </div>
 
@@ -17,8 +15,8 @@
 
 ## 🚀 About Me
 
-- 🎓 **4th-year Computer and Embedded Systems Engineering student** at Ho Chi Minh City University of Science (HCMUS)
-- 🔬 **Currently exploring:** Embedded Systems, IoT Development, and Real-time Systems
+- 🎓 **4th-year student majoring in Computer and Embedded Systems** at Ho Chi Minh City University of Science (HCMUS)
+- 🔬 **Currently exploring:** Embedded Systems and IoT Development
 - 🌱 **Learning:** Advanced microcontroller programming, RTOS, and hardware-software integration
 - 📖 **Passionate about:** Continuous learning through technical literature and innovation
 - 🎯 **Goal:** Contributing to cutting-edge embedded technology solutions
