@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/quoc-viet-tran-3a6b3a301/))
 
 </div>
 
@@ -39,8 +39,6 @@
 ### Embedded Systems & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino"  />
-  <img width="15" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/ARM_logo.svg" height="45" alt="ARM"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux"  />
   <img width="15" />
